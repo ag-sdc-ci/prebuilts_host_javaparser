@@ -1,0 +1,13 @@
+package {
+    default_applicable_licenses: ["Android-Apache-2.0"],
+}
+
+java_import_host {
+    name: "javaparser",
+    jars: ["lib64/javaparser.jar"],
+}
+
+java_import_host {
+    name: "javaparser-symbol-solver",
+    jars: ["lib64/javaparser-symbol-solver.jar"],
+}

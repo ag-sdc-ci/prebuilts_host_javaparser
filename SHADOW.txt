@@ -1,0 +1,6 @@
+shadow prebuilt repo: javaparser (host)
+  aur package: javaparser (PKGBUILD build, any)
+  registry: arch/javaparser v3.14.10-1
+  api-level: 34 (branch 34-20261016; JVM jars are API-agnostic)
+  layout: .pkg.tar.zst blobs at root, jars in lib64/
+  date: 2026-10-16
